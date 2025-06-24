@@ -1,6 +1,6 @@
 # 🎓 SENIORÉ – Find Your Campus Mentor, Instantly
 
-**SENIORÉ** is a swipe-style web app UI designed to help students seamlessly connect with verified seniors from their college for academic guidance, career advice, and mentorship. Inspired by the familiarity of dating apps like Tinder, SENIORÉ introduces a fun, engaging, yet professional space for meaningful campus connections.
+**SENIORÉ** is a swipe-style web app UI designed to help students seamlessly connect with verified seniors from their college for academic guidance, career advice, and mentorship. Inspired by the familiarity of swipe-apps, SENIORÉ introduces a fun, engaging, yet professional space for meaningful campus connections.
 
 ---
 
